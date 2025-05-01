@@ -13,16 +13,15 @@
 <!-- Links -->
 <p align="center"> 
   <a href="mailto:saurabh.s99100@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"> </a>
-  <a href="https://sites.google.com/view/saurabh-singh-web"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" height="30"> </a>
-  <a href="https://www.linkedin.com/in/saurabhsingh19/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30"> </a> 
+  <a href="https://sites.google.com/view/saursin"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" height="30"> </a>
+  <a href="https://www.linkedin.com/in/saursin"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30"> </a> 
 </p>
 
 
 <!-- About -->
 <p align="center">
-I am a senior undergraduate student and an undergraduate researcher at the department of Electronics and Communication Engineering (ECE) at the Indian Institute of Information Technology Guwahati (IIITG). I am passionate about Programming, Digital VLSI design and hardware prototyping on FPGAs.
+ I am a 2nd year Ph.D. student at the School of Computer Science at Georgia Tech. I am passionate about Hardware Design, Computer Architecture and Hardware Security.
 </p>
-
 
 
 <!-- Stats -->
