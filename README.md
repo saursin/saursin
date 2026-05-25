@@ -20,37 +20,16 @@
 
 <!-- About -->
 <p align="center">
- I am a 3rd year Ph.D. student at the School of Computer Science at Georgia Tech. I am passionate about Hardware Design, Computer Architecture and Hardware Security.
+ I am a 3rd year Ph.D. student at the School of Computer Science at Georgia Tech. I am passionate about Hardware Design, Computer Architecture and Hardware Security. Find out more about me on my webpage!
 </p>
 
 
 <!-- Stats -->
 <p align="center">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=saursin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
- 
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saursin&langs_count=5&layout=compact" />
+ <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=saursin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saursin&langs_count=5&layout=compact" /> -->
  
  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=saursin&" alt="saursin" />
 </p>
 
-<!-- Technology Stack -->
 
-
-<!--Pinned repos
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
--->
-
-<!--
-<h3 align="center">Who Am I</h3>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
